@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: omitting argument labels when calling functions. The `bug.swift` file contains code that reproduces the error, while `bugSolution.swift` provides the corrected version.  The error arises from a mismatch between the function definition and the function call, leading to a compiler error.
